@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "eeeee",
+    "name": "Eeeee",
+    "description": "E eee'e eeee eeee eee.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Semx11"
+    ],
+    "credits": "Eeeeee.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
